@@ -1,0 +1,24 @@
+{
+  "name": "pheptru",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính hiệu của 2 số bất kỳ. Đơn giản, dễ dùng và nhẹ",
+  "main": "pheptru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyduongtam/pheptru.git"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "pheptru",
+    "tru",
+    "sub"
+  ],
+  "author": "Sunny",
+  "license": "MIT"
+}
